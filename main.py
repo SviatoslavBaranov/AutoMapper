@@ -1,6 +1,8 @@
 import ChinaAmapIt as ch
 import googleMapIt as gg
 import sys
+
+
 if len(sys.argv) == 1:
     gg.google_search()
 elif sys.argv[1] == '-ch':
