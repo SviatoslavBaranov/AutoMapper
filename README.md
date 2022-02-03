@@ -1,1 +1,1 @@
-The app for automotization mapping quiery for Chinese and WorldWide Maps
+The app for querying address in Chinese and WorldWide Maps
