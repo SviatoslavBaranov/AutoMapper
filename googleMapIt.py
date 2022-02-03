@@ -3,7 +3,7 @@
 
 import webbrowser, sys, pyperclip
 
-def googleSearch(args=''):
+def google_search(args=''):
     if len(sys.argv) > 1:
         address = '+'.join(args)
     else:
