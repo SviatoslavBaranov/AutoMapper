@@ -1,6 +1,3 @@
-# mapIt - Launches a map in the browser using an address from the 
-# cli or clipboard
-
 import webbrowser, sys, pyperclip
 
 def google_search(args=''):

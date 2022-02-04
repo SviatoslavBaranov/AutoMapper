@@ -1,6 +1,3 @@
-# mapIt - Launches a map in Chinese Amap in the browser using an address from the 
-# cli or clipboard
-
 import webbrowser, sys, pyperclip
 
 def amap_search(args=''):
